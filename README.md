@@ -1,3 +1,4 @@
+theme: jeykll-theme-hacker
 <b>Headers</b>
 # H1
 ## H2
